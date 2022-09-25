@@ -16,183 +16,181 @@ updated: Sunday 25th September 2022 10:44:19
 ## 🔥 Top in mind
 
 
+<img src="img_girl.jpg" alt="Girl in a jacket" width="50
 
-![[Female_Adult_15.png]]
+<img src="Female_Adult_15.png" alt="Girl in a jacket" width="50>
 
-![[Female_Adult_14.png]]
+<img src="Female_Adult_14.png" alt="Girl in a jacket" width="50>
 
-![[Female_Adult_17.png]]
+<img src="Female_Adult_17.png" alt="Girl in a jacket" width="50>
 
-![[Female_Child_01.png]]
+<img src="Female_Child_01.png" alt="Girl in a jacket" width="50>
 
-![[Female_Party_01.png]]
+<img src="Female_Party_01.png" alt="Girl in a jacket" width="50>
 
-![[Female_Child_02.png]]
+<img src="Female_Child_02.png" alt="Girl in a jacket" width="50>
 
-![[Female_Party_02.png]]
+<img src="Female_Party_02.png" alt="Girl in a jacket" width="50>
 
-![[Female_Adult_16.png]]
+<img src="Female_Adult_16.png" alt="Girl in a jacket" width="50>
 
-![[Fire_Female_01.png]]
+<img src="Fire_Female_01.png" alt="Girl in a jacket" width="50>
 
-![[Fire_Female_02.png]]
+<img src="Fire_Female_02.png" alt="Girl in a jacket" width="50>
 
-![[Fire_Female_03.png]]
+<img src="Fire_Female_03.png" alt="Girl in a jacket" width="50>
 
-![[Fire_Male_02.png]]
+<img src="Fire_Male_02.png" alt="Girl in a jacket" width="50>
 
-![[Fire_Male_03.png]]
+<img src="Fire_Male_03.png" alt="Girl in a jacket" width="50>
 
-![[Fire_Male_01.png]]
+<img src="Fire_Male_01.png" alt="Girl in a jacket" width="50>
 
-![[Fire_Male_04.png]]
+<img src="Fire_Male_04.png" alt="Girl in a jacket" width="50>
 
-![[Fire_Male_05.png]]
+<img src="Fire_Male_05.png" alt="Girl in a jacket" width="50>
 
-![[Fire_Male_06.png]]
+<img src="Fire_Male_06.png" alt="Girl in a jacket" width="50>
 
-![[Gardener_Male_01.png]]
+<img src="Gardener_Male_01.png" alt="Girl in a jacket" width="50>
 
-![[Fire_Male_07.png]]
+<img src="Fire_Male_07.png" alt="Girl in a jacket" width="50>
 
-![[Horse_Brown_01.png]]
+<img src="Horse_Brown_01.png" alt="Girl in a jacket" width="50>
 
-![[Goat_Brown_01.png]]
+<img src="Goat_Brown_01.png" alt="Girl in a jacket" width="50>
 
-![[Horse_Brown_Saddle_01.png]]
+<img src="Horse_Brown_Saddle_01.png" alt="Girl in a jacket" width="50>
 
-![[Goat_White_01.png]]
+<img src="Goat_White_01.png" alt="Girl in a jacket" width="50>
 
-![[Horse_LightBrown_01.png]]
+<img src="Horse_LightBrown_01.png" alt="Girl in a jacket" width="50>
 
-![[Horse_LightBrown_Saddle_01.png]]
+<img src="Horse_LightBrown_Saddle_01.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_01.png]]
+<img src="Male_Adult_01.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_02.png]]
+<img src="Male_Adult_02.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_03.png]]
+<img src="Male_Adult_03.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_04.png]]
+<img src="Male_Adult_04.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_05.png]]
+<img src="Male_Adult_05.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_06.png]]
+<img src="Male_Adult_06.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_08.png]]
+<img src="Male_Adult_08.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_07.png]]
+<img src="Male_Adult_07.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_10.png]]
+<img src="Male_Adult_10.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_09.png]]
+<img src="Male_Adult_09.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_11.png]]
+<img src="Male_Adult_11.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_12.png]]
+<img src="Male_Adult_12.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_13.png]]
+<img src="Male_Adult_13.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_14.png]]
+<img src="Male_Adult_14.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_15.png]]
+<img src="Male_Adult_15.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_16.png]]
+<img src="Male_Adult_16.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_17.png]]
+<img src="Male_Adult_17.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_18.png]]
+<img src="Male_Adult_18.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_19.png]]
+<img src="Male_Adult_19.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_20.png]]
+<img src="Male_Adult_20.png" alt="Girl in a jacket" width="50>
 
-![[Male_Adult_21.png]]
+<img src="Male_Adult_21.png" alt="Girl in a jacket" width="50>
 
-![[Medical_Female_01.png]]
+<img src="Medical_Female_01.png" alt="Girl in a jacket" width="50>
 
-![[Male_Child_01.png]]
+<img src="Male_Child_01.png" alt="Girl in a jacket" width="50>
 
-![[Male_Child_02.png]]
+<img src="Male_Child_02.png" alt="Girl in a jacket" width="50>
 
-![[Medical_Female_02.png]]
+<img src="Medical_Female_02.png" alt="Girl in a jacket" width="50>
 
-![[Medical_Male_01.png]]
+<img src="Medical_Male_01.png" alt="Girl in a jacket" width="50>
 
-![[Medical_Female_03.png]]
+<img src="Medical_Female_03.png" alt="Girl in a jacket" width="50>
 
-![[Medical_Male_03.png]]
+<img src="Medical_Male_03.png" alt="Girl in a jacket" width="50>
 
-![[Medical_Male_05.png]]
+<img src="Medical_Male_05.png" alt="Girl in a jacket" width="50>
 
-![[Medical_Male_02.png]]
+<img src="Medical_Male_02.png" alt="Girl in a jacket" width="50>
 
-![[Medical_Male_04.png]]
+<img src="Medical_Male_04.png" alt="Girl in a jacket" width="50>
 
-![[Military_Female_02.png]]
+<img src="Military_Female_02.png" alt="Girl in a jacket" width="50>
 
-![[Military_Female_01.png]]
+<img src="Military_Female_01.png" alt="Girl in a jacket" width="50>
 
-![[Military_Male_01.png]]
+<img src="Military_Male_01.png" alt="Girl in a jacket" width="50>
 
-![[Military_Male_02.png]]
+<img src="Military_Male_02.png" alt="Girl in a jacket" width="50>
 
-![[Military_Male_03.png]]
+<img src="Military_Male_03.png" alt="Girl in a jacket" width="50>
 
-![[Military_Male_04.png]]
+<img src="Military_Male_04.png" alt="Girl in a jacket" width="50>
 
-![[Military_Male_05.png]]
+<img src="Military_Male_05.png" alt="Girl in a jacket" width="50>
 
-![[Military_Male_06.png]]
+<img src="Military_Male_06.png" alt="Girl in a jacket" width="50>
 
-![[Pilot_Female_01.png]]
+<img src="Pilot_Female_01.png" alt="Girl in a jacket" width="50>
 
-![[Pilot_Female_02.png]]
+<img src="Pilot_Female_02.png" alt="Girl in a jacket" width="50>
 
-![[Pilot_Male_01.png]]
+<img src="Pilot_Male_01.png" alt="Girl in a jacket" width="50>
 
-![[Pilot_Male_03.png]]
+<img src="Pilot_Male_03.png" alt="Girl in a jacket" width="50>
 
-![[Pilot_Male_02.png]]
+<img src="Pilot_Male_02.png" alt="Girl in a jacket" width="50>
 
-![[Police_Male_01.png]]
+<img src="Police_Male_01.png" alt="Girl in a jacket" width="50>
 
-![[Police_Female_01.png]]
+<img src="Police_Female_01.png" alt="Girl in a jacket" width="50>
 
-![[Police_Male_03.png]]
+<img src="Police_Male_03.png" alt="Girl in a jacket" width="50>
 
-![[Police_Male_05.png]]
+<img src="Police_Male_05.png" alt="Girl in a jacket" width="50>
 
-![[Police_Male_04.png]]
+<img src="Police_Male_04.png" alt="Girl in a jacket" width="50>
 
-![[Police_Male_06.png]]
+<img src="Police_Male_06.png" alt="Girl in a jacket" width="50>
 
-![[Pig_Pink_01.png]]
+<img src="Pig_Pink_01.png" alt="Girl in a jacket" width="50>
 
-![[Police_Male_07.png]]
+<img src="Police_Male_07.png" alt="Girl in a jacket" width="50>
 
-![[Security_Male_01.png]]
+<img src="Security_Male_01.png" alt="Girl in a jacket" width="50>
 
-![[Security_Female_01.png]]
+<img src="Security_Female_01.png" alt="Girl in a jacket" width="50>
 
-![[Sports_Female_01.png]]
+<img src="Sports_Female_01.png" alt="Girl in a jacket" width="50>
 
-![[Sports_Male_01.png]]
+<img src="Sports_Male_01.png" alt="Girl in a jacket" width="50>
 
-![[Sports_Female_02.png]]
+<img src="Sports_Female_02.png" alt="Girl in a jacket" width="50>
 
-![[Sports_Male_02.png]]
+<img src="Sports_Male_02.png" alt="Girl in a jacket" width="50>
 
-![[Sheep_White_01.png]]
+<img src="Sheep_White_01.png" alt="Girl in a jacket" width="50>
 
-![[Sports_Male_03.png]]
+<img src="Sports_Male_03.png" alt="Girl in a jacket" width="50>
 
-![[Sports_Male_04.png]]
+<img src="Sports_Male_04.png" alt="Girl in a jacket" width="50>
 
-![[Police_Male_02.png]]
-
-
-
+<img src="Police_Male_02.png" alt="Girl in a jacket" width="50>
 
 
 ![](https://i.imgur.com/tFhyCmF.png)
@@ -350,13 +348,13 @@ updated: Sunday 25th September 2022 10:44:19
 ---
 
 - Tags: 
-	- 
+    - 
 - Reference:
-	- 
+    - 
 - Related:
-	- 
+    - 
 - Roadmap:
-	- 
+    - 
 
 ---
 
@@ -370,3 +368,4 @@ updated: Sunday 25th September 2022 10:44:19
 > — <cite>Ralph Waldo Emerson</cite>  
 
 ---
+
