@@ -17,7 +17,7 @@ updated: Sunday 25th September 2022 10:44:19
 
 
 
-<img src="Female_Adult_15.png" >
+<img src="Female_Adult_15.png" alt="Girl in a jacket" >
 
 <img src="Female_Adult_14.png" >
 
