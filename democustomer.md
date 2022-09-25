@@ -16,9 +16,9 @@ updated: Sunday 25th September 2022 10:44:19
 ## 🔥 Top in mind
 
 
-<img src="img_girl.jpg" alt="Girl in a jacket" width="50
+<img src="Female_Adult_15.png" alt="Girl in a jacket" width="500" height="600">
 
-<img src="Female_Adult_15.png" alt="Girl in a jacket" width="50>
+
 
 <img src="Female_Adult_14.png" alt="Girl in a jacket" width="50>
 
