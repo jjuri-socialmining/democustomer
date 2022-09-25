@@ -24,7 +24,7 @@ updated: Sunday 25th September 2022 10:44:19
 
 
 
-<img src="Female_Adult_17.png" alt="Girl in a jacket">
+<img src="Female_Adult_17.png" alt="Girl in a jacket" />
 
 <img src="Female_Child_01.png" alt="Girl in a jacket">
 
