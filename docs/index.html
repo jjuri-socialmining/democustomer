@@ -104,12 +104,24 @@
     </main>
 
     <script>
+      // Edita solo estos 2 valores para dejar la pagina lista sin rellenar campos.
+      const DEFAULT_ENDPOINT = "https://promptops-trigger-portal-616448760973.northamerica-northeast1.run.app";
+      const DEFAULT_SECRET = "";
+
       const endpointInput = document.getElementById("endpoint");
+      const secretInput = document.getElementById("secret");
       const runBtn = document.getElementById("run");
       const statusBox = document.getElementById("status");
 
       const saved = localStorage.getItem("demo_trigger_endpoint");
-      if (saved) endpointInput.value = saved;
+      if (saved) {
+        endpointInput.value = saved;
+      } else if (DEFAULT_ENDPOINT) {
+        endpointInput.value = DEFAULT_ENDPOINT;
+      }
+      if (DEFAULT_SECRET) {
+        secretInput.value = DEFAULT_SECRET;
+      }
 
       function setStatus(msg, cls = "") {
         statusBox.textContent = msg;
@@ -118,7 +130,7 @@
 
       runBtn.addEventListener("click", async () => {
         const endpoint = endpointInput.value.trim().replace(/\/$/, "");
-        const secret = document.getElementById("secret").value;
+        const secret = secretInput.value;
         const reason = document.getElementById("reason").value.trim() || "Cliente trigger";
 
         if (!endpoint) {
